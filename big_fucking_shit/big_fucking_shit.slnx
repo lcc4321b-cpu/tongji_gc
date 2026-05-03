@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="big_fucking_shit/big_fucking_shit.vcxproj" Id="3e756890-7eed-46fe-b88a-ab59755323a7" />
+  <Project Path="big_fucking_shit_2/big_fucking_shit_2.vcxproj" Id="c9f521fd-158d-4c6d-9279-9093ad83dc04" />
+</Solution>

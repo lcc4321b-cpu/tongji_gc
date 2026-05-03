@@ -1,0 +1,12 @@
+﻿  cmd_console_tools.cpp
+  cmd_hdc_tools.cpp
+  hanoi_main.cpp
+D:\高程\big_fucking_shit\big_fucking_shit\hanoi_main.cpp(39,22): error C3861: “hanoi_menu_select”: 找不到标识符
+D:\高程\big_fucking_shit\big_fucking_shit\hanoi_main.cpp(47,18): error C3861: “hanoi_execute”: 找不到标识符
+  hanoi_menu.cpp
+  hanoi_multi_solutions.cpp
+D:\高程\big_fucking_shit\big_fucking_shit\hanoi_multi_solutions.cpp(24,44): warning C4003: 类函数宏的调用“max”参数不足
+D:\高程\big_fucking_shit\big_fucking_shit\hanoi_multi_solutions.cpp(24,44): error C2589: “(”:“::”右边的非法标记
+D:\高程\big_fucking_shit\big_fucking_shit\hanoi_multi_solutions.cpp(24,44): error C2059: 语法错误:“)”
+D:\高程\big_fucking_shit\big_fucking_shit\hanoi_multi_solutions.cpp(24,55): error C2059: 语法错误:“)”
+  正在生成代码...
